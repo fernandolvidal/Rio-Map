@@ -1,0 +1,328 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Botafogo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1822, -22.9436],
+            [-43.1826, -22.9451],
+            [-43.1845, -22.9450],
+            [-43.1849, -22.9435],
+            [-43.1822, -22.9436]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Leblon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.2207, -22.9872],
+            [-43.2211, -22.9887],
+            [-43.2230, -22.9886],
+            [-43.2234, -22.9871],
+            [-43.2207, -22.9872]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Copacabana"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1887, -22.9694],
+            [-43.1891, -22.9709],
+            [-43.1910, -22.9708],
+            [-43.1914, -22.9693],
+            [-43.1887, -22.9694]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Ipanema"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1982, -22.9862],
+            [-43.1986, -22.9877],
+            [-43.2005, -22.9876],
+            [-43.2009, -22.9861],
+            [-43.1982, -22.9862]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Lagoa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.2115, -22.9823],
+            [-43.2119, -22.9838],
+            [-43.2138, -22.9837],
+            [-43.2142, -22.9822],
+            [-43.2115, -22.9823]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Flamengo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1771, -22.9297],
+            [-43.1775, -22.9312],
+            [-43.1794, -22.9311],
+            [-43.1798, -22.9296],
+            [-43.1771, -22.9297]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Laranjeiras"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1844, -22.9348],
+            [-43.1848, -22.9363],
+            [-43.1867, -22.9362],
+            [-43.1871, -22.9347],
+            [-43.1844, -22.9348]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Gávea"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.2336, -22.9789],
+            [-43.2340, -22.9804],
+            [-43.2359, -22.9803],
+            [-43.2363, -22.9788],
+            [-43.2336, -22.9789]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Jardim Botânico"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.2245, -22.9692],
+            [-43.2249, -22.9707],
+            [-43.2268, -22.9706],
+            [-43.2272, -22.9691],
+            [-43.2245, -22.9692]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Leme"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1722, -22.9604],
+            [-43.1726, -22.9619],
+            [-43.1745, -22.9618],
+            [-43.1749, -22.9603],
+            [-43.1722, -22.9604]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Humaitá"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.2000, -22.9522],
+            [-43.2004, -22.9537],
+            [-43.2023, -22.9536],
+            [-43.2027, -22.9521],
+            [-43.2000, -22.9522]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "São Conrado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.2641, -22.9922],
+            [-43.2645, -22.9937],
+            [-43.2664, -22.9936],
+            [-43.2668, -22.9921],
+            [-43.2641, -22.9922]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Glória"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1789, -22.9207],
+            [-43.1793, -22.9222],
+            [-43.1812, -22.9221],
+            [-43.1816, -22.9206],
+            [-43.1789, -22.9207]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Urca"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1657, -22.9492],
+            [-43.1661, -22.9507],
+            [-43.1680, -22.9506],
+            [-43.1684, -22.9491],
+            [-43.1657, -22.9492]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Catete"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1799, -22.9262],
+            [-43.1803, -22.9277],
+            [-43.1822, -22.9276],
+            [-43.1826, -22.9261],
+            [-43.1799, -22.9262]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Santa Teresa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1892, -22.9222],
+            [-43.1896, -22.9237],
+            [-43.1915, -22.9236],
+            [-43.1919, -22.9221],
+            [-43.1892, -22.9222]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "zona": "Zona Sul",
+        "nome": "Arpoador"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-43.1911, -22.9842],
+            [-43.1915, -22.9857],
+            [-43.1934, -22.9856],
+            [-43.1938, -22.9841],
+            [-43.1911, -22.9842]
+          ]
+        ]
+      }
+    }
+  ]
+}
